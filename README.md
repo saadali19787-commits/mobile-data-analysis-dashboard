@@ -14,5 +14,7 @@ This project analyzes smartphone data using Excel.
 
 ## 🖼 Dashboard Preview
 
+https://github.com/saadali19787-commits/mobile-data-analysis-dashboard/blob/9f692f0094a152996aeadf364903e37721ea4303/Screenshot%202026-04-28%20180019.png
+
 ## 🛠 Tools Used
 - Microsoft Excel
